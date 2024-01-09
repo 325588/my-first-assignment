@@ -227,9 +227,46 @@ margin-top: 5px;
 .b3:focus{
     outline: none;
 }
-..checkbox:focus{
+.checkbox:focus{
     outline:none;
 }
+.footer{
+    width: 1500px;
+    height: 500px;
+    background-color: black;
+    
+
+}
+.street{
+    color: white;
+    padding-top: 120px;
+    padding-left:140px ;
+}
+.rtl{
+    color: #FFF;
+
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+padding-left: 140px;
+padding-top: 200px;
+}
+.icon{
+    padding-left: 500px;
+    display: flex;
+    margin-bottom: 100px;
+    text-align: right;
+}
+.small icon{
+    color: white;
+}
+
+    
+
+
+
 
 
     
