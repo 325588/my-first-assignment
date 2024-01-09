@@ -179,6 +179,57 @@ margin-top: 5px;
     margin-top: 70px;
 
 }
+.subscribe{
+    background-image: url(img/Group\ 61.png);padding-left:100px;
+    background-repeat: no-repeat;
+    background-position:top;
+    text-align: center;
+    padding-bottom: 100px;
+    padding-left: 10px;
+    padding-right: 20px;
+}
+.ter1{
+    padding-top: 200px;
+    margin-left: 4px;
+}
+.top{
+    width: 330px;
+    float: left;
+    margin-left: 470px;
+
+}
+.checkbox{
+    width: 200px;
+    height: 30px;
+    background: transparent;
+    border: 1px solid black;
+    border-right: none;
+    font-size:15px;
+    float:left;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+
+}
+.b3{
+    width: 100px;
+    height: 52px;
+    background-color: #f00;
+    border: 2px solid white;
+    padding-right: 10px;
+    border-radius: 10px;
+   
+    
+    color:#fff8f3;
+
+}
+.b3:focus{
+    outline: none;
+}
+..checkbox:focus{
+    outline:none;
+}
 
 
     
